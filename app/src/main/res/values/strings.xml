@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paging Library 3 Demo</string>
+    <string name="catText">My id is %s</string>
+</resources>
